@@ -17,7 +17,7 @@ It will then sort the list based on the values in the indicated column, then it 
 <img width="118" alt="Screen Shot 2021-06-24 at 2 53 13 PM" src="https://user-images.githubusercontent.com/62785773/123337334-e80d5600-d4fb-11eb-81d6-3a5ec502a006.png">
 
 
-2) Sourted by age
+2) Sorted by age
 <img width="113" alt="Screen Shot 2021-06-24 at 2 53 25 PM" src="https://user-images.githubusercontent.com/62785773/123337361-ef346400-d4fb-11eb-9277-73354992d7a5.png">
 
 3) Sorted by fruit 
