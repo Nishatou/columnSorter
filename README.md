@@ -7,7 +7,7 @@ This program will read input data on ​stdin​, saving each line it reads in a
 It will then sort the list based on the values in the indicated column, then it will write all of the data out to ​stdout​.
 
 ## How the program works:
-1) The program will load the file that contrains the data which it is unsorted 
+1) The program will load the file that contrains the data which it is unsorted ( input data should be in the form of CSV (comma-separated-value) )
 <img width="424" alt="Screen Shot 2021-06-24 at 3 02 38 PM" src="https://user-images.githubusercontent.com/62785773/123338179-38d17e80-d4fd-11eb-85c7-d33d578430e7.png">
            
 2) The program will be prombted user to select what kind of sorted; **1: sorted by name, 2: sorted by age, 3: sorted by fruit** . 
