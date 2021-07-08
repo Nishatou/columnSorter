@@ -1,10 +1,8 @@
 # columnSorter
 
-**Description:** This is a a command line utility called **columnSorter**.
+**Language used:** C
 
-This program will require one command line parameter, the number of a column. 
-This program will read input data on ​stdin​, saving each line it reads in a list. 
-It will then sort the list based on the values in the indicated column, then it will write all of the data out to ​stdout​.
+**Description:** Developed a command-line utility tool in C to help users organize their data based on the user's file. It filters and outputs sorted data derived from the user’s selections.
 
 ## How the program works:
 1) The program will load the file that contrains the data which it is unsorted ( input data should be in the form of CSV (comma-separated-value) )
